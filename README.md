@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+programming lover my favorite languages are php, java, javascript, database that I know how to use oracle sql, plsql, postgresql.
+
+
+I like to be myself
 <!--
 **Michaego1/michaego1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
